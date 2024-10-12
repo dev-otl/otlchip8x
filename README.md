@@ -2,13 +2,12 @@
 Cross platform chip8 emulator/interpreter
 
 ## Install
-Look at the releases or download source codes from here:
 
 ### For windows x64:
 
-1) Extract zip file in a folder or download .exe file, download SDL.dll from their SDL website
+1) Download files from releases and extract zip file in a folder or download standalone .exe file and SDL.dll from the SDL website
 2) drag and drop a chip8 rom
-3) Change created config file as needed
+3) Modify generated config file as needed
 
 ### For linux:
 
